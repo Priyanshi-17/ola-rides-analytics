@@ -2,7 +2,8 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 📌 Overview
-This project analyzes Ola ride data using Excel, Power BI, and Python. 
+This project analyzes Ola ride data using Excel, Power BI, and Python.
+
 The dataset is generated using Python and then cleaned, visualized, and analyzed for insights.
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -10,7 +11,9 @@ The dataset is generated using Python and then cleaned, visualized, and analyzed
 🛠 Tools Used
 
 Python: Data generation and preprocessing
+
 Excel: Data cleaning and basic analysis
+
 Power BI: Data visualization and dashboard creation
 
 ------------------------------------------------------------------------------------------------------------------------
